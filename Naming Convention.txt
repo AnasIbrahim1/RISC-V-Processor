@@ -1,0 +1,7 @@
+1. Control Signals in the circuit are written in PascalCase
+2. Module Names are written in PascalCase
+3. All other input and output signals and wires are written in snake_case.
+4. Module instantiation are written in camelCase
+5. Appreviations and shortcutrs (like ALU) are all uppercase.
+6. All multibit buses are ordered from most significant to least significant.
+7. Dates in the headlines are in DD/MM/YYYY

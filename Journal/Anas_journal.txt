@@ -1,0 +1,22 @@
+Nov 4, 8:00 PM: Imported the codes from the lab modules, and polished them according to the 
+coding guidelines posted.
+
+Nov 4, 10:00 PM: Imported the codes posted on Blackboard and integrated it in the main modules, and 
+investigated their functionality.
+
+Nov 5, 12:00 PM: finalized R-type instructions based on the new integrated modules and defines.
+
+Nov 6, 7:00 AM: finished debugging the made instructions.
+
+Nov 6, 2:00 PM: together with my teammate, we implemented JAL and JALR instructions
+
+Nov 6, 7:00 PM: together with my teammate, we finished all load and save instructions debugging, with
+byte addressing
+
+Nov 6, 11:00 PM: together, finished testing all implemented instructions instruction
+
+Nov 11, 1:00 PM added IFID and IDEX registers
+
+Nov 11, 8:00 PM, integrated the single ported memory in the main module.
+
+Nov 13, 1:00 PM, together started testing the instructions

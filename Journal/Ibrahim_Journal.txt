@@ -1,0 +1,22 @@
+Nov 5, 6:00 PM: Finalized I-type instructions and accomplished considerable progress on branches 
+(wrote down the branchControlUnit)
+
+Nov 5, 8:00 PM: Finished debugging branching instructions.
+
+Nov 5, 10:00 PM: tested 50% of the made instructions.
+
+Nov 6, 12:00 PM: implemented the AUIPC and LUI datapaths
+
+Nov 6, 2:00 PM: together with my teammate, we implemented JAL and JALR instructions
+
+Nov 6, 7:00 PM: together with my teammate, we finished all load and save instructions debugging, with
+byte addressing
+
+
+Nov 6, 11:00 PM: together, finished testing all implemented instructions instruction
+
+Nov 11, 3:00 PM added EXMEM and MEMWB registers
+
+Nov 11, 5:00 PM implemented the single ported memory
+
+Nov 13, 1:00 PM, together started testing the instructions
